@@ -50,7 +50,7 @@ local function promptUser()
     local input = io.read()
   
     if input == "yes" then
-      print("Account created.")
+      print("Account created! Welcome to a new way to chat!")
     else
       print("Account creation canceled.")
     end
